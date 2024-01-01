@@ -8,6 +8,7 @@
 
 body {
     background-color: #F8F5F9;
+    text-align: center;
 }
 
 .primary-bg {
@@ -35,6 +36,13 @@ body {
 }
 
 
+/* MAIN SECTION */
+
+h1, .btn-group {
+    margin-bottom: 4vh;
+}
+
 pre {
-    height: 60vh;
+    height: 75vh;
+    border-radius: 10px;
 }
