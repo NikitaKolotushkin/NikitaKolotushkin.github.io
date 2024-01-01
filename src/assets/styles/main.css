@@ -1,0 +1,40 @@
+/* SETITINGS */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F8F5F9;
+}
+
+.primary-bg {
+    background-color: #86639D;
+}
+
+.primary-fg {
+    color: #f8f5f9;
+}
+
+.secondary-bg {
+    background: #C8A8B2;
+}
+
+.secondary-fg {
+    color: #151019;
+}
+
+.accent-bg {
+    background: #B8948E;
+}
+
+.accent-fg {
+    color: #151019;
+}
+
+
+pre {
+    height: 60vh;
+}
